@@ -1,0 +1,2 @@
+$ git config [--local | --global] user.email "userid@domain.tld"
+$ git config [--local | --global] user.name "username"
